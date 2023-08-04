@@ -1,0 +1,16 @@
+{
+  "name": "rabbitmq-tutorial",
+  "version": "1.0.0",
+  "description": "This projects follows the tutorial on []().",
+  "main": "index.js",
+  "scripts": {
+    "lesson1:send": "node lesson-1/send.js",
+    "lesson1:recieve": "node lesson-1/recieve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
