@@ -8,6 +8,8 @@
     "lesson1:recieve": "node lesson-1/recieve.js",
     "lesson2:worker": "node lesson-2/worker.js",
     "lesson2:new-task": "node lesson-2/new-task.js",
+    "lesson3:emit-logs": "node lesson-3/emit_logs.js",
+    "lesson3:recieve-logs": "node lesson-3/recieve_logs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
