@@ -12,6 +12,8 @@
     "lesson3:recieve-logs": "node lesson-3/recieve_logs.js",
     "lesson4:emit-logs": "node lesson-4/emit_log_direct.js",
     "lesson4:recieve-logs": "node lesson-4/recieve_logs_direct.js",
+    "lesson5:emit-logs": "node lesson-5/emit_log_topic.js",
+    "lesson5:recieve-logs": "node lesson-5/recieve_logs_topics.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
