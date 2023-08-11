@@ -14,6 +14,8 @@
     "lesson4:recieve-logs": "node lesson-4/recieve_logs_direct.js",
     "lesson5:emit-logs": "node lesson-5/emit_log_topic.js",
     "lesson5:recieve-logs": "node lesson-5/recieve_logs_topics.js",
+    "lesson6:rpc-client": "node lesson-6/rpc_client.js",
+    "lesson6:rpc-server": "node lesson-6/rpc_server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
